@@ -1,0 +1,18 @@
+1. Internal iterator
+2. External iterator
+3. forEach
+4. Polymorphic
+5. Consumer Interface
+6. Anonymous inner class
+7. Anonymous function
+8. Functional interfaces
+
+——
+
+1. Imperative code
+2. Declarative code
+3. Map
+4. Reduce 
+5. Stream
+6. Mutation
+7. Default Methods
