@@ -16,3 +16,11 @@
 5. Stream
 6. Mutation
 7. Default Methods
+
+——
+
+1. Strategy Patterns
+2. Predicate
+3. Terminal functions
+
+—
